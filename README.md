@@ -38,10 +38,9 @@ Berikut adalah panduan instalasi, konfigurasi, dan penggunaan aplikasi:
 
 3. **Akses Menu Admin**
    - Untuk mengakses menu admin, tambahkan `/admin` pada URL:
-     ```sh misalnya:
-    [http://127.0.0.1:8000/admin]
-     ```
-
+  sh misalnya:
+   ''[http://127.0.0.1:8000/admin]''
+     
 4. **Penggunaan Aplikasi**
    - Anda dapat menggunakan aplikasi sesuai dengan fungsi dan fitur yang tersedia.
 
